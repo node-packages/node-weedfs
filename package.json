@@ -7,17 +7,20 @@
     }, {
             "name": "Aaron Blakely",
             "email": "aaron@cruzrr.com"
+    },{
+            "name": "Roberto Sales",
+            "email": "iseme.beto@gmail.com"
     }
   ],
     "keywords": ["weedfs", "seaweedfs", "seaweed", "driver", "filestorage", "distributed"],
-    "name": "node-seaweedfs",
+    "name": "jude-seaweedfs",
     "description": "Node.js client for seaweed-fs, a distributed file store",
-    "homepage": "https://github.com/atroo/node-weedfs",
-    "version": "1.1.0",
+    "homepage": "https://github.com/rsalesc/node-weedfs",
+    "version": "1.1.4",
     "main": "./index",
     "repository": {
         "type": "git",
-        "url": "git://github.com/atroo/node-weedfs"
+        "url": "git://github.com/rsalesc/node-weedfs"
     },
     "dependencies": {
         "form-data": "^0.2.0"
