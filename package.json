@@ -30,7 +30,7 @@
   "name": "conscia-seaweedfs",
   "description": "Node.js client for seaweed-fs, a distributed file store",
   "homepage": "https://github.com/rsalesc/node-weedfs",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "main": "./index",
   "repository": {
     "type": "git",
